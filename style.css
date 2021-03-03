@@ -1,13 +1,14 @@
-*{
+* {
     margin: 0;
     padding: 0;
     letter-spacing: 1px;
     box-sizing: border-box;
 }
+
 html {
     scroll-behavior: smooth;
-  }
+}
 
-  .hamdivstyle {
-      background-color: #111;
-  }
+.hamdivstyle {
+    background-color: #111;
+}
